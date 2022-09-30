@@ -1,0 +1,11 @@
+{
+    "db": {
+        "database": "pg_test_db",
+        "max": 10,
+        "host": "TODO here",
+        "user": "TODO here",
+        "password": "TODO here",
+        "idleTimeoutMillis": 30000,
+        "connectionTimeoutMillis": 30000
+    }
+}
